@@ -1,10 +1,16 @@
 # getx_modules_learn
 
-A new Flutter project.
+Flutter GetX RoadMap
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter GetX Road Map and What we will Learn in this Project
+
+=> GetX RoadMap
+=> Creating our Project and adding GetX Packages
+=> Get Material App ( Why we used Get Material App )
+=> GetX as Utilities
+
 
 A few resources to get you started if this is your first Flutter project:
 
